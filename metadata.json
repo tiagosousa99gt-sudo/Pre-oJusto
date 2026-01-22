@@ -1,0 +1,8 @@
+{
+  "name": "Preço Justo",
+  "description": "Uma plataforma inteligente de comparação de preços de supermercados locais, permitindo aos consumidores economizar e aos estabelecimentos gerenciar seus estoques de forma eficiente.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
